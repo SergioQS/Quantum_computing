@@ -1,5 +1,5 @@
 # Quantum_computing
-A repo for quantum computing and quantum machine learning concepts and model implementations.
+A repo for quantum computing and QML implementations, projects and study material.
 
 Implementations:\
    The first model "QSVM_implemetation" is a Quantum support vector classifier modified version reproduced from     qiskit tutorial "quantum kernel machine learning" and the paper " supervised learning with quantum enhanced       feature spaces".
